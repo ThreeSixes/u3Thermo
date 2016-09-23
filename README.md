@@ -58,8 +58,8 @@ Thermocouple temp: 24.7 C
 
 
 Requirements:
-- LabJack U3 and LJIA-InAmp device.
-- Themocouple
+- LabJack U3 and LJTick-InAmp device.
+- Themocouple (must be supported by thermocouples_reference.)
 - LabJack exodriver installed (https://github.com/labjack/exodriver)
 - LabJack U3 driver installed (https://github.com/labjack/LabJackPython)
 - thermocouples_reference installed (available via pip)

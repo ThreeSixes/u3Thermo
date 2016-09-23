@@ -182,7 +182,7 @@ class u3Interface():
 		retVal = False
 		
 		if self.__debug == True:
-			print("LJIA-InAmp channel = %s" %channel)
+			print("LJTick-InAmp channel = %s" %channel)
 		
 		try:
 			try:
@@ -261,7 +261,7 @@ class u3Interface():
 		retVal = False
 		
 		if self.__debug == True:
-			print("LJIA-InAmp gain = %s" %gain)
+			print("LJTick-InAmp gain = %s" %gain)
 		
 		try:
 			try:
